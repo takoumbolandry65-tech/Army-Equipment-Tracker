@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\bin\Debug\net10.0\AssetTrack.exe
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\bin\Debug\net10.0\AssetTrack.deps.json
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\bin\Debug\net10.0\AssetTrack.runtimeconfig.json
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\bin\Debug\net10.0\AssetTrack.dll
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\bin\Debug\net10.0\AssetTrack.pdb
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\obj\Debug\net10.0\AssetTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\obj\Debug\net10.0\AssetTrack.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\obj\Debug\net10.0\AssetTrack.AssemblyInfo.cs
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\obj\Debug\net10.0\AssetTrack.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\obj\Debug\net10.0\AssetTrack.dll
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\obj\Debug\net10.0\refint\AssetTrack.dll
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\obj\Debug\net10.0\AssetTrack.pdb
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\obj\Debug\net10.0\AssetTrack.genruntimeconfig.cache
+C:\Users\Owner\Desktop\ARMSROOM APP\AssetTrack\obj\Debug\net10.0\ref\AssetTrack.dll
