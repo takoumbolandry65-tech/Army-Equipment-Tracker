@@ -1,6 +1,6 @@
 # Army Equipment Tracker
 
-A C#/.NET console application for managing serialized equipment accountability, inspired by real-world Army supply and arms-room workflows.
+This is a C#/.NET console application for managing serialized equipment accountability, inspired by real-world Army supply and arms-room workflows.
 
 ## Project Overview
 
@@ -32,9 +32,7 @@ The current version supports:
 ## Example Workflow
 
 ```text
-========================================
-       ARMS ROOM EQUIPMENT TRACKER
-========================================
+ARMS ROOM EQUIPMENT TRACKER
 
 1. Add Equipment
 2. View All Equipment
