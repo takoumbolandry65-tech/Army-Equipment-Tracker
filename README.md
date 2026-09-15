@@ -1,10 +1,10 @@
-# Army Equipment Tracker
+# Armsroom Equipment Tracker
 
 This is a C#/.NET console application for managing serialized equipment accountability, inspired by real-world Army supply and arms-room workflows.
 
 ## Project Overview
 
-Army Equipment Tracker is a proof-of-concept application designed to improve the process of issuing and returning serialized equipment.
+Armsroom Equipment Tracker is a proof-of-concept application designed to improve the process of issuing and returning serialized equipment.
 
 The project was inspired by my experience working in Army supply operations, where accountability is essential when equipment is issued to Soldiers and returned to the arms room.
 
