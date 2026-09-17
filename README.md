@@ -10,7 +10,6 @@ The project was inspired by my experience working in Army supply operations, whe
 
 The application demonstrates how software can track equipment status, identify who currently has an item, prevent duplicate issues, and maintain a transaction history.
 
-> **Note:** This project is an educational proof of concept. It uses fictional demonstration data and is not an official U.S. Army system.
 
 ## Features
 
